@@ -13,6 +13,7 @@ Having basic knowledge of HTML/CSS is a plus, as you can jump right into JavaScr
 - [Working with operators](https://github.com/NodeJSAfrica/workshoppers/tree/master/3.working%20with%20operators)
 - [Working with construct](https://github.com/NodeJSAfrica/workshoppers/tree/master/4.%20working%20with%20construct)
 - [Working with arrays](https://github.com/NodeJSAfrica/workshoppers/tree/master/5.%20working_with_arrays)
+- [Data types and data type functions](https://github.com/NodeJSAfrica/workshoppers/tree/master/6.%20data%20types%20and%20data%20type%20functions)
 
 ## Challenges
 - Participants are expected to complete challenges. The challenges helps you transition faster and better. Please, do well not give up on any challenge and we do encourage you complete them and work better. *challenges are there to build you and make you stronger, even in world situations*.
