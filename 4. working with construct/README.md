@@ -110,3 +110,4 @@ The code in the script.js file won't working because they are missing html marku
 ## Award
 Membership to Node.js Africa.
 
+[Previous](https://github.com/NodeJSAfrica/workshoppers/tree/master/3.working%20with%20operators) [Next](https://github.com/NodeJSAfrica/workshoppers/tree/master/5.%20working_with_arrays)
