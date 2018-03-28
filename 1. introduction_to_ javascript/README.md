@@ -20,8 +20,8 @@
 ```
 
 - Add a script tag  `<script src=""></script>` in the body of the html page.
-- Like this 
-  ```
+Like this 
+```
     <body>
         <script src=""></script>
     </body>
