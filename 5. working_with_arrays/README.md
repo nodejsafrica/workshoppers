@@ -70,3 +70,5 @@ Below are list of funtions of array
 
 ## Award 
 Array master.
+
+[Previous](https://github.com/NodeJSAfrica/workshoppers/tree/master/4.%20working%20with%20construct) [Next](https://github.com/NodeJSAfrica/workshoppers/tree/master/6.%20data%20types%20and%20data%20type%20functions)

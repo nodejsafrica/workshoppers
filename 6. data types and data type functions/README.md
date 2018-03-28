@@ -69,3 +69,5 @@ The above listed functions are the most used number functions. click [here](http
 
 ## Award
 Egale eyes!..
+
+[Previous](https://github.com/NodeJSAfrica/workshoppers/tree/master/5.%20working_with_arrays)

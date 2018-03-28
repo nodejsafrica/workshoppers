@@ -52,3 +52,5 @@ Like this
 - Open the index.html file your browser. *please, it's best to use Google Chrome as it supports most Javascript APIs*.
 - Horray!!!, You just wrote your first javascript code.
 
+
+[Next](https://github.com/NodeJSAfrica/workshoppers/tree/master/2.%20working%20with%20variables)

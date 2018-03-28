@@ -52,3 +52,5 @@ Pretty much the name of the operators and they uses are quite the same. So, the 
 Completing the challenge should earn you a Node.js sticker.
 
 
+[Previous](https://github.com/NodeJSAfrica/workshoppers/tree/master/2.%20working%20with%20variables) [Next](https://github.com/NodeJSAfrica/workshoppers/tree/master/4.%20working%20with%20construct)
+

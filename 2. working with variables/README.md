@@ -81,5 +81,5 @@ The above syntax declared a variable called *a* and has a value of *1*. This dec
 ### Award 
 - Completing the task should win you a sticker.
 
-
+[Previous](https://github.com/NodeJSAfrica/workshoppers/tree/master/1.%20introduction_to_%20javascript)  [Next](https://github.com/NodeJSAfrica/workshoppers/tree/master/3.working%20with%20operators)
 
