@@ -1,5 +1,7 @@
 # Working with Variables.
 
+[![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
+
 A variable is container that holds or store values or data. JavaScript variables are typical declared with the following keywords.
 - var
 - let

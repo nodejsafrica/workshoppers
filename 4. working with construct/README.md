@@ -1,5 +1,7 @@
 # Constructs: The Bedrock of Any Software.
 
+[![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
+
 There is no software that does not contain a construct, this help shapes the programme or software. It tells the complier or the interpreter of any programme when to perform a certain task, how it performs the task and also how it ends the task. 
 
 ## Type of construct

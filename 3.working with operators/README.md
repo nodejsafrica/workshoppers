@@ -1,5 +1,7 @@
 ## Operators
 
+[![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
+
 - Logical operators.
 - Arithmetic operators.
 - Assignment operators.

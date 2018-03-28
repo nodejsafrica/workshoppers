@@ -1,5 +1,7 @@
 # Arrays
 
+[![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
+
 An array is also like a variable but can hold a large number of data. The data in an array are consider elements of the array. 
 
 JavaScript arrays are the most dynamic arrays of any programming language. That's because JavaScript is a lose end language: variables are not declared with data types.

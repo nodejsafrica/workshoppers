@@ -1,5 +1,7 @@
 # INTRODUCTION TO JAVASCRIPT
 
+[![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
+
 ## Step 1:
 **Good pratice:  Always create a folder to store your projects.**
 - Make sure you have a folder storing your projects.
