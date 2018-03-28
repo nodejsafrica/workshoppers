@@ -1,3 +1,4 @@
 (function(){
-    alert("Hello Javascript");
+    /*Uncomment this code */
+    //alert("Hello, Javascript!");
 })();

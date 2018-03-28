@@ -1,6 +1,10 @@
+[![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
+
 # INTRODUCTION TO JAVASCRIPT
 
-[![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
+Javascript is a front-end or client-side programming language, basically created for DOM manipulation and creating dynamic web-pages. In 2008 Javascript moved from being just a client-side programming language to being a server-side language with the introduction of Node.js. Now, javascript can live out of the browser DOM and can be used in creating desktop, mobile and web applications.
+
+# Getting Started!
 
 ## Step 1:
 **Good pratice:  Always create a folder to store your projects.**

@@ -1,10 +1,7 @@
 "use strict"
 
 //VARIABLES
-let ussdCode, 
-    airtime,
-    data,
-    balance;
+let ussdCode;
 
 //Function decalartion 
 function ussd(ussdkey){  
@@ -37,10 +34,12 @@ function ussd(ussdkey){
    document.querySelector("#btn-click").addEventListener('click', function(){
     ussdCode = document.querySelector("#ussdcode").value;    
         if(ussdCode == "*141#"){
+            //Assign values to the DOM 
             document.querySelector("#dom-stdout1").innerText = `Please select 1 - 3`;
             document.querySelector("#dom-stdout2").innerText = `1. Borrow Airtime`;
             document.querySelector("#dom-stdout3").innerText = `2. Borrow Data`;
             document.querySelector("#dom-stdout4").innerText = `3. Check Balance`;
+            //Perform second operation 
             document.querySelector("#btn-send").addEventListener('click', function(){
                 let ussdkey = document.querySelector("#ussdkey").value;
                 ussd(ussdkey)

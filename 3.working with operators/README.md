@@ -39,4 +39,16 @@ like:
 
 Pretty much the name of the operators and they uses are quite the same. So, the fear of forgetting is out of equation.
 
+## Challenge 
+- Declare variables.
+- Perform an arithmetic operations using the following operators:
+    - Addition
+    - Subtraction
+    - Multiplication 
+    - Division
+- Alert the variables holding the operations.
+
+## Award
+Completing the challenge should earn you a Node.js sticker.
+
 

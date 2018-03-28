@@ -26,7 +26,7 @@ As it's name
  ```
 if
     its a boy 
-    then print boy
+    print boy
  else
     print girl.
 ```
@@ -96,4 +96,17 @@ While the condition remains true perform a certain command or action... This the
 
 *NB:- construct are also functions, predefined and unique functions.*
 
+
+## Challenge
+The code in the script.js file won't working because they are missing html markups in index.html file.
+- Use your html skills to find the missing tag elements
+- Assign the suppose attribute to the tags 
+- Test code by running the index.html file
+
+*Tip: use your browser console to debug*
+> Windows --> Ctrl + Shift + I or Fn12 to open console debugging tool.
+> Mac  --> CMD + Shift + I or Fn12 to open console debugging tool.
+
+## Award
+Membership to Node.js Africa.
 
