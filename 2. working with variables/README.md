@@ -1,13 +1,13 @@
-# Working with Variables.
+# Working with Variables
 
 [![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
 
-A variable is container that holds or store values or data. JavaScript variables are typical declared with the following keywords.
+A variable is a container that holds or store values or data. JavaScript variables are typically declared with the following keywords.
 - var
 - let
 - const
 
-## Variable and Variables declaration. 
+## Variable and Variables declaration
 
 - Variables declared with the *var* keyword can be redeclared or altered over and over and over again, without having *syntax* errors. This deceleration pattern is more familiar in ES5.
 - Variables declared with the *const* keyword cannot be redeclared or altered in a JavaScript file, doing this will result to *syntax* errors. This declaration pattern is more familiar in ES6 and above.
@@ -19,7 +19,7 @@ A variable is container that holds or store values or data. JavaScript variables
 
 The above syntax declared a variable called *a* and has a value of *1*. This declaration pattern applies to all variable declaration keywords.
 
-## Variable declaration rules.
+## Variable declaration rules
 
 **Naming**
 - A variable can only start with a letter like "a - z" or special characters like "_ and $" and can never start with either a leading "0 - 9".
@@ -70,7 +70,7 @@ The above syntax declared a variable called *a* and has a value of *1*. This dec
 
 ### Challenge
 - Write down all the keywords and what they are used for in JavaScript. 
-*Why is this necessary? this is necessary, to help you get more familiar with JavaScript keywords and how things work in JavaScript*.
+*Why is this necessary? this is necessary to help you get familiar with JavaScript keywords and how things work in JavaScript*.
 - Try alerting the variable you declared.
 - Predict the output of the following
 
