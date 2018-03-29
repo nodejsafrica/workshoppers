@@ -2,11 +2,11 @@
 
 [![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
 
-- Logical operators.
-- Arithmetic operators.
-- Assignment operators.
+- Logical operators
+- Arithmetic operators
+- Assignment operators
 
-### Logical operators as the name sounds it helps us perform logical tasks, like comparing values to either a *true state* or *false state*.
+### Logical operators as the name sounds helps us perform logical tasks, like comparing values to either a *true state* or *false state*.
 
 like:
 - same as or equal to operator **==**
@@ -19,7 +19,7 @@ like:
 - strict equal to **===**
 - strict not equal to **!===**
 
-### Arithmetic operators: operators that performs arithmetic operations 
+### Arithmetic operators are operators that performs arithmetic operations 
 
 like:
 - Addition **+**
@@ -28,7 +28,7 @@ like:
 - Modules **%**
 - Division **/**
 
-### Assignment operators: operators that performs assigning operations
+### Assignment operators are operators that performs assigning operations
 
 like:
 - equal to **=**
@@ -40,7 +40,7 @@ like:
 Pretty much the name of the operators and they uses are quite the same. So, the fear of forgetting is out of equation.
 
 ## Challenge 
-- Declare variables.
+- Declare variables
 - Perform an arithmetic operations using the following operators:
     - Addition
     - Subtraction
