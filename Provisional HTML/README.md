@@ -39,7 +39,7 @@ The browser looks up for the index, as the name simple means a search point. Thi
 
 ### What next?
 
-## Step 3: Creating a boileplate
+## Step 3: Creating a boilerplate
 - Prepare a boilerplate 
 - Typing `html:5` and clicking on 'CTRL + Spacebar + Enter' or 'CMD + Spacebar + Return' should give you something like this:
 ```
