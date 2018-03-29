@@ -19,7 +19,6 @@ This course is not a comprehensive HTML course but something to get you started 
 
 If you were able to complete this task, you deserve a Hi-Five! **Award: HTML Boss!**
 
-
 ## Step 2: Create the HTML file
 Now you have a file named index.html, you might be probably thinking:
 - What's next?
@@ -35,7 +34,7 @@ HTML being a markup language, meaning it should have some sort of tags or elemen
 Good! Now we understand that markups are elements that are represented in codes as tags and rendered in the browser based on their definition and uses.
 
 ### Why was the file named index.html
-The browser looks up for the index, as the name simple means a search point. Think of it as human looking for a definition or word in a book or dictionary, it's eaiser to check the index page of the textbook or dictionary for the content you need, right? The browser performs in a similar manner it looks up the index as a seacrching point to render a webpage.
+The browser looks up for the index, as the name simply means a search point. Think of it as human looking for a definition or word in a book or dictionary, it's eaiser to check the index page of the textbook or dictionary for the content you need, right? The browser performs in a similar manner it looks up the index as a seacrching point to render a webpage.
 
 ### What next?
 
@@ -58,10 +57,11 @@ The browser looks up for the index, as the name simple means a search point. Thi
 ```
 
 if that didn't happen copy and paste the code in your index.hmtl file.
-*Don't bother with the meta tag for now, but know it's for page description*.
+*Don't bother with the meta tag for now but know it's for page description*.
 
 - Notice the `<!Doctype HTML>` at the top of the file? It tells the browser that the code in the this file an HTML5 code and it should use just HTML5 tag names and attributes.
-- Next the `<head></head>` tag: The head tag holds meta data, things that can't been seen on the webpage but they exist. For now pay attention to the `<title></title>` tag that holds the title of the page.
+- Next the `<head></head>` tag: The head tag holds meta data, things that can't been seen on the webpage but they exist. For now, pay attention to the `<title></title>` tag that holds the title of the page.
+- And then the `<body></body>` tag: The body tag holds the content to be displayed on the webpage, like `<div></div>`, `<h1></h1>` and `<p></p>` stays inside the `<body></body>` of an HTML document.
 
 ## Step 4: Opening and serving the webpage
 - How do we see what we've done so far in the browser.
@@ -75,35 +75,37 @@ An empty page should be rendered,
 - *NB:- Whenever you make a change in the html file always save and refresh to see your changes..*
 
 ## Step 5: More Tags
-[HTML Tags](https://www.html-5-tutorial.com/all-html-tags.htm) You could look that up for all the avaliable html tags.
+[HTML Tags](https://www.html-5-tutorial.com/all-html-tags.htm) You could look that up for all the available html tags.
 
 ## Step 6: Working with Tags
 Every tag has an opening and a closing tag except some like `<br>`, `<img>`, `<link>`, and `<meta>` you could also lookout for those not listed here.
 
 This course is to prepare you for JS and we won't be doing much talks about style or any of that our major concentration are attributes and event of each element or tags.
 
-We encourage you to think of the box, not be littling your thoughts and imagination. 
+We encourage you to think out of the box, not belittling your thoughts and imagination. 
 
-- Open the html file you created earlier add the follwing line of code to your index.html    
+- Open the html file you created earlier add the following line of code to the `<body></body>` tag of your index.html    
 ```
+<body>
     <div>
       <h1>My First HTML Project</h1>
         <input type="" class="" id="" placeholder="" value="" style="">
         <p class="" id="" style=""></p>
     </div>
+<body>
 ```
 Awesome!
-- Consider the code above, notice that they are some text in the tag defintions, these are considered to be called attributes and HTML attribute is a modifier of an HTML element type. An attribute either modifies the default functionality of an element type or provides functionality to certain element types might be unable to function correctly without them.
+- Consider the code above, notice that they are some text in the tag definitions, these are considered to be called attributes and HTML attribute is a modifier of an HTML element type. An attribute either modifies the default functionality of an element type or provides functionality to certain element types might be unable to function correctly without them.
 
 ## Step 7: Understanding and Working with HTML Attributes
-Because this course is to prepare you for Javascript, we will be talking more about HTML attributes. Basically front-end javascript is the manipulation of html element and their attributes.
+Because this course is to prepare you for JavaScript, we will be talking more about HTML attributes. Basically, front-end javascript is the manipulation of html element and their attributes.
 
 ### Common Attributes
 - id 
 - class
 - style
 
-Every html element has the above attributes and most time this attributes are what we use in manipulating the DOM in JavaScript.
+Every html element has the above attributes and most time these attributes are what we use in manipulating the DOM in JavaScript.
 
 ### Simple DOM Manipulation 
 - Consider the code below and update this code in your index.html file 
@@ -155,6 +157,8 @@ Every html element has the above attributes and most time this attributes are wh
 
 </html>
 ```
-- Horray! You just wrote your first Javascript and You are ready to learn more JS and learn more attributes.
+- Hooray! You just wrote your first JavaScript and You are ready to learn more JS and learn more attributes.
 
 [Introduction to JavaScript](https://github.com/NodeJSAfrica/workshoppers/tree/master/1.%20introduction_to_%20javascript) 
+
+
