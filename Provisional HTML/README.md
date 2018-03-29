@@ -157,3 +157,4 @@ Every html element has the above attributes and most time this attributes are wh
 ```
 - Horray! You just wrote your first Javascript and You are ready to learn more JS and learn more attributes.
 
+[Introduction to JavaScript](https://github.com/NodeJSAfrica/workshoppers/tree/master/1.%20introduction_to_%20javascript) 
