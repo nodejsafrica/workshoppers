@@ -3,8 +3,8 @@
 This course is not a comprehensive HTML course but something to get you started with JS. We strongly advice more research should be done, but also hope that end of this course you should be ready to write simple HTML and JS.
 
 ## Getting Started
-- Install a code editor [Visual studio code VSC]() : A code editor is software or tool that helps you write clean codes, rather than using the regular notepad on your local machine.
-- Making sure you have the latest version of chrome installed [Google Chrome]().
+- Install a code editor [Visual studio code VSC](https://code.visualstudio.com/Download) : A code editor is software or tool that helps you write clean codes, rather than using the regular notepad on your local machine.
+- Making sure you have the latest version of chrome installed [Google Chrome](https://www.google.com/chrome/).
 - Now you are all ready... Let's learn.
 
 ## Step 1:
@@ -25,7 +25,7 @@ Now you have a file named index.html, you might be probably thinking:
 - Why was the file named *'index'* not something other than that?
 
 ### What's HTML?
-HTML is stands for HyperText Markup Language, there is no web application or website that does not some html codes. Therefore, HTML is the building block of any application that runs in your browser from simple static webpages to dynamic pages.
+HTML stands for HyperText Markup Language, there is no web application or website that does not some html codes. Therefore, HTML is the building block of any application that runs in your browser from simple static webpages to dynamic pages.
 
 HTML being a markup language, meaning it should have some sort of tags or elements marking or matching up to something, right? Yes! HTML has it's own elements and tag that are represented in the browser and rendered in different forms according to it's uses. Like:
 `<img src="">` that's an image tag, if a src is passed in, it renders an image on the browser but `<p></p>` can not render an image on the browser. 

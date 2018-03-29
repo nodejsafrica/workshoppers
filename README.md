@@ -5,7 +5,7 @@
 
 Being a workshopper simply means that you are a participant in the Node.js Africa training programme. We believe that when you come in as a novice, you will get transitioned into a Node.js Developer Expert. Our training has been structured to accommodate everybody at each level of the web-development stack.
 
-Having basic knowledge of HTML/CSS is a plus, as you can jump right into JavaScript coding. The entry profile course below is for JavaScript and we encourage you to do some HTML/CSS on your own or attend our training session. Here is a provisonal [HTML](https://github.com/NodeJSAfrica/workshoppers/tree/master/Provisional%20HTML) crash course 
+Having basic knowledge of HTML/CSS is a plus, as you can jump right into JavaScript coding. The entry profile course below is for JavaScript and we encourage you to do some HTML/CSS on your own or attend our training session. Here is a [Provisional HTML](https://github.com/NodeJSAfrica/workshoppers/tree/master/Provisional%20HTML) crash course 
 
 ## Entry Profile Course for JavaScript
 - [Introduction to Javascript](https://github.com/NodeJSAfrica/workshoppers/tree/master/1.%20introduction_to_%20javascript)
