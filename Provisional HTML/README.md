@@ -12,7 +12,7 @@ This course is not a comprehensive HTML course but something to get you started 
 ## Step 1:
 **Good pratice: Make sure you create a folder to save your html projects**
 - Open your code editor 
-- Open the folder *using vs code: windows->  CTRL + O, mac -> CMD + O*
+- Open the folder *using vs code: windows->  [CTRL + K, CTRL + O], mac -> CMD + O*
 - Navigate to your project folder and click open 
 - Your code editor should look like this ![vscode](img/vscode.PNG)
 - Click on file -> New File -> File name should be index.html
