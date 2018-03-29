@@ -1,4 +1,4 @@
-# Provivsional HTML Crash Course
+# Provisional HTML Crash Course
 
 This course is not a comprehensive HTML course but something to get you started with JS. We strongly advice more research should be done, but also hope that end of this course you should be ready to write simple HTML and JS.
 
