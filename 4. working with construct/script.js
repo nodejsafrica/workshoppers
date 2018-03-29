@@ -31,6 +31,9 @@ function ussd(ussdkey){
 
 //Invoke the function 
 (function(){
+    var arr = ["me"];
+
+    arr.con
    document.querySelector("#btn-click").addEventListener('click', function(){
     ussdCode = document.querySelector("#ussdcode").value;    
         if(ussdCode == "*141#"){
