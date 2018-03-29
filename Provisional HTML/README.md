@@ -73,5 +73,55 @@ An empty page should be rendered,
 - *NB:- Whenever you make a change in the html file always save and refresh to see your changes..*
 
 ## Step 5: More Tags
- 
+[HTML Tags](https://www.html-5-tutorial.com/all-html-tags.htm) You could look that up for all the avaliable html tags.
 
+## Step 6: Working with Tags
+Every tag has an opening and a closing tag except some like `<br>`, `<img>`, `<link>`, and `<meta>` you could also lookout for those not listed here.
+
+This course is to prepare you for JS and we won't be doing much talks about style or any of that our major concentration are attributes and event of each element or tags.
+
+We encourage you to think of the box, not be littling your thoughts and imagination. 
+
+- Open the html file you created earlier add the follwing line of code to your index.html    
+```
+    <div>
+      <h1>My First HTML Project</h1>
+        <input type="" class="" id="" placeholder="" value="" style="">
+        <p class="" id="" style=""></p>
+    </div>
+```
+Awesome!
+- Consider the code above, notice that they are some text in the tag defintions, these are considered to be called attributes and HTML attribute is a modifier of an HTML element type. An attribute either modifies the default functionality of an element type or provides functionality to certain element types might be unable to function correctly without them.
+
+## Step 7: Understanding and Working with HTML Attributes
+Because this course is to prepare you for Javascript, we will be talking more about HTML attributes. Basically front-end javascript is the manipulation of html element and their attributes.
+
+### Common Attributes
+- id 
+- class
+- style
+
+Every html element has the above attributes and most time this attributes are what we use in manipulating the DOM in JavaScript.
+
+### Simple DOM Manipulation 
+- Consider the code below and update this code in your index.html file 
+```
+    <div>
+      <h1>My First HTML Project</h1>
+        <input type="text" id="username" placeholder="Enter your username">
+        <p id="name">Your Name Appears Here</p>
+    </div>
+```
+-  Awesome! save and refresh in your browser.
+-  Now, add the following code to your html file
+```
+    <script type="text/javascript">
+        (function() {
+            document.getElementById("username").addEventListener("keyup", function() {
+                document.getElementById("name").innerText = document.getElementById("username").value;
+            });
+        })();
+    </script>
+```
+
+- Horray! You just wrote your first Javascript and You are ready to learn more JS and learn more attributes.

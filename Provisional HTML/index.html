@@ -9,7 +9,19 @@
 </head>
 
 <body>
+    <div>
+        <h1>My First HTML Project</h1>
+        <input type="text" id="username" placeholder="Enter your username">
+        <p id="name">Your Name Appears Here</p>
+    </div>
 
+    <script type="text/javascript">
+        (function() {
+            document.getElementById("username").addEventListener("keyup", function() {
+                document.getElementById("name").innerText = document.getElementById("username").value;
+            });
+        })();
+    </script>
 </body>
 
 </html>
