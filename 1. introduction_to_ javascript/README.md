@@ -7,7 +7,7 @@ Javascript is a front-end or client-side programming language, basically created
 # Getting Started!
 
 ## Step 1:
-**Good pratice:  Always create a folder to store your projects.**
+**Good practice:  Always create a folder to store your projects.**
 - Make sure you have a folder storing your projects.
 - Create an index.html file.
 - Prepare a boilerplate.
@@ -32,10 +32,10 @@ Like this
         <script src=""></script>
     </body>
 ```
-- NB: the script should always be at the bottom of the file. So it loads last on the HTML page, more explanation will be done soon. 
+- NB: the script should always be at the bottom of the file, so it loads last on the HTML page. More explanation will be done soon. 
 
 ## Step 2: 
-- Create a file call it script.js.
+- Create a file, call it script.js.
 - Open the index.html
 - Give the "src" attribute of the script tag a value which will be name of the file you created.
 - Like this "`<script src="script.js"></script>`".
@@ -50,7 +50,7 @@ Like this
 ```
 
 - Open the index.html file your browser. *please, it's best to use Google Chrome as it supports most Javascript APIs*.
-- Horray!!!, You just wrote your first javascript code.
+- Hurray!!!, You just wrote your first javascript code.
 
 
 [Next](https://github.com/NodeJSAfrica/workshoppers/tree/master/2.%20working%20with%20variables)
