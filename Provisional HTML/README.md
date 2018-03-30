@@ -116,7 +116,7 @@ Every html element has the above attributes and most time these attributes are w
 They are three major selectors in CSS which is also applicable to JavaScript 
 - '**#**' : selects an id name eg: `<p id="name"></p>` this can be represented in javascript as `#name`.
 - '**.**' : the period, is used in selecting the class attribute like: `<p class="class-name"></p>` this can be represented in javascript as `.class-name`.
-- '**element-name**' : javascript can also use the element-name for selecting, eg:  `<p class="class-name"></p>` this can be represented in javascript as `p` just the tag or element-name itself.
+- '**tag-name**' : javascript can also use the tag-name for selecting, eg:  `<p class="class-name"></p>` this can be represented in javascript as `p` tag-name itself.
 
 ### Simple DOM Manipulation 
 - Consider the code below and update this code in your index.html file 
