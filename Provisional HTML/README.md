@@ -10,7 +10,7 @@ This course is not a comprehensive HTML course but something to get you started 
 - Now you are all ready... Let's learn.
 
 ## Step 1:
-**Good pratice: Make sure you create a folder to save your html projects**
+**Good practice: Make sure you create a folder to save your html projects**
 - Open your code editor 
 - Open the folder *using vs code: windows->  [CTRL + K, CTRL + O], mac -> CMD + O*
 - Navigate to your project folder and click open 
@@ -28,13 +28,13 @@ Now you have a file named index.html, you might be probably thinking:
 ### What's HTML?
 HTML stands for HyperText Markup Language, there is no web application or website that does not some html codes. Therefore, HTML is the building block of any application that runs in your browser from simple static webpages to dynamic pages.
 
-HTML being a markup language, meaning it should have some sort of tags or elements marking or matching up to something, right? Yes! HTML has it's own elements and tag that are represented in the browser and rendered in different forms according to it's uses. Like:
-`<img src="">` that's an image tag, if a src is passed in, it renders an image on the browser but `<p></p>` can not render an image on the browser. 
+HTML being a markup language, meaning it should have some sort of tags or elements marking or matching up to something, right? Yes! HTML has its own elements and tag that are represented in the browser and rendered in different forms according to its uses. Like:
+`<img src="">` that's an image tag, if a src is passed in, it renders an image on the browser but `<p></p>` cannot render an image on the browser. 
 
 Good! Now we understand that markups are elements that are represented in codes as tags and rendered in the browser based on their definition and uses.
 
 ### Why was the file named index.html
-The browser looks up for the index, as the name simply means a search point. Think of it as human looking for a definition or word in a book or dictionary, it's eaiser to check the index page of the textbook or dictionary for the content you need, right? The browser performs in a similar manner it looks up the index as a seacrching point to render a webpage.
+The browser looks up for the index, as the name simply means a search point. Think of it as human looking for a definition or word in a book or dictionary, it's easier to check the index page of the textbook or dictionary for the content you need, right? The browser performs in a similar manner it looks up the index as a searching point to render a webpage.
 
 ### What next?
 
@@ -101,12 +101,11 @@ Awesome!
 Because this course is to prepare you for JavaScript, we will be talking more about HTML attributes. Basically, front-end javascript is the manipulation of html element and their attributes.
 
 ### Common Attributes
-- id : this means identifier, usually idenities are unique, this also applies to this HTML attribute. You can only have one id in a tag eg: `<p id="name"></p>` **NOT!** `<p id="name name"></p>` or `<p id="name" id="name"></p>`. An id name cannot be repeated eg: `<p id="name"></p>` and `<h1 id="name"></h1>` this won't work. The next element name has to be unique to that particular element like this: `<p id="p-name"></p>` and `<h1 id="h1-name"></h1>`.  
+- id : this means identifier, usually identities are unique, this also applies to this HTML attribute. You can only have one id in a tag eg: `<p id="name"></p>` **NOT!** `<p id="name name"></p>` or `<p id="name" id="name"></p>`. An id name cannot be repeated eg: `<p id="name"></p>` and `<h1 id="name"></h1>` this won't work. The next element name has to be unique to that particular element like this: `<p id="p-name"></p>` and `<h1 id="h1-name"></h1>`.  
 
 - class : the class attribute is a little bit awesome, you can have multiple classes in one HTML tag eg: `<p class="class1 class2 class3"></p>` but **NOT!** `<p class="class1" class="class1"></p>`. 
 
 - style : the style attribute is used for simple-inline CSS or styling and we won't be talking about styles in this course. You can always look that up.
-
 
 In general attributes cannot be repeated like we saw with id(s) and classes like: `<p class="class1" class="class2"></p>` or `<p id="name" id="name"></p>`.
 
@@ -170,9 +169,7 @@ They are three major selectors in CSS which is also applicable to JavaScript
 ```
 - Hooray! You just wrote your first JavaScript and You are ready to learn more JS and learn more attributes.
 
-- *NB:- Please, notice the use of element and tag interchanglably... the difference is quite simple*
+- *NB:- Please, notice the use of element and tag interchangeably... the difference is quite simple*
 > HTML tag is just opening or closing entity. For example: `<p> and </p>` are called HTML tags HTML element encompasses opening tag, closing tag, content (optional for content-less tags) Eg: `<p>This is the content</p>` : This complete thing is called a HTML element.
 
 [Introduction to JavaScript](https://github.com/NodeJSAfrica/workshoppers/tree/master/1.%20introduction_to_%20javascript) 
-
-
