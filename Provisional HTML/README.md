@@ -101,11 +101,22 @@ Awesome!
 Because this course is to prepare you for JavaScript, we will be talking more about HTML attributes. Basically, front-end javascript is the manipulation of html element and their attributes.
 
 ### Common Attributes
-- id 
-- class
-- style
+- id : this means identifier, usually idenities are unique, this also applies to this HTML attribute. You can only have one id in a tag eg: `<p id="name"></p>` **NOT!** `<p id="name name"></p>` or `<p id="name" id="name"></p>`. An id name cannot be repeated eg: `<p id="name"></p>` and `<h1 id="name"></h1>` this won't work. The next element name has to be unique to that particular element like this: `<p id="p-name"></p>` and `<h1 id="h1-name"></h1>`.  
 
-Every html element has the above attributes and most time these attributes are what we use in manipulating the DOM in JavaScript.
+- class : the class attribute is a little bit awesome, you can have multiple classes in one HTML tag eg: `<p class="class1 class2 class3"></p>` but **NOT!** `<p class="class1" class="class1"></p>`. 
+
+- style : the style attribute is used for simple-inline CSS or styling and we won't be talking about styles in this course. You can always look that up.
+
+
+In general attributes cannot be repeated like we saw with id(s) and classes like: `<p class="class1" class="class2"></p>` or `<p id="name" id="name"></p>`.
+
+Every html element has the above attributes and most time these attributes are what we mostly use in manipulating the DOM in JavaScript.
+
+### Selectors
+They are three major selectors in CSS which is also applicable to JavaScript 
+- '**#**' : selects an id name eg: `<p id="name"></p>` this can be represented in javascript as `#name`.
+- '**.**' : the period, is used in selecting the class attribute like: `<p class="class-name"></p>` this can be represented in javascript as `.class-name`.
+- '**element-name**' : javascript can also use the element-name for selecting, eg:  `<p class="class-name"></p>` this can be represented in javascript as `p` just the tag or element-name itself.
 
 ### Simple DOM Manipulation 
 - Consider the code below and update this code in your index.html file 
@@ -158,6 +169,9 @@ Every html element has the above attributes and most time these attributes are w
 </html>
 ```
 - Hooray! You just wrote your first JavaScript and You are ready to learn more JS and learn more attributes.
+
+- *NB:- Please, notice the use of element and tag interchanglably... the difference is quite simple*
+> HTML tag is just opening or closing entity. For example: `<p> and </p>` are called HTML tags HTML element encompasses opening tag, closing tag, content (optional for content-less tags) Eg: `<p>This is the content</p>` : This complete thing is called a HTML element.
 
 [Introduction to JavaScript](https://github.com/NodeJSAfrica/workshoppers/tree/master/1.%20introduction_to_%20javascript) 
 
