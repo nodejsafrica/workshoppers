@@ -2,12 +2,12 @@
 
 [![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
 
-This course is not a comprehensive HTML course but something to get you started with JS. We strongly advice more research should be done, but also hope that end of this course you should be ready to write simple HTML and JS.
+This course is not a comprehensive HTML course but something to get you started with JS. We strongly advice more research should be done, but we also hope that at the end of this course you should be ready to write simple HTML and JS.
 
 ## Getting Started
-- Install a code editor [Visual studio code VSC](https://code.visualstudio.com/Download) : A code editor is software or tool that helps you write clean codes, rather than using the regular notepad on your local machine.
+- Install a code editor [Visual studio code VSC](https://code.visualstudio.com/Download) : A code editor is a software or tool that allows you write clean codes, rather than using the regular notepad on your local machine.
 - Making sure you have the latest version of chrome installed [Google Chrome](https://www.google.com/chrome/).
-- Now you are all ready... Let's learn.
+Now you are all ready... Let's learn.
 
 ## Step 1:
 **Good practice: Make sure you create a folder to save your html projects**
@@ -26,15 +26,15 @@ Now you have a file named index.html, you might be probably thinking:
 - Why was the file named *'index'* not something other than that?
 
 ### What's HTML?
-HTML stands for HyperText Markup Language, there is no web application or website that does not some html codes. Therefore, HTML is the building block of any application that runs in your browser from simple static webpages to dynamic pages.
+HTML stands for HyperText Markup Language, there is no web application or website that does not have some html codes. Therefore, HTML is the building block of any application that runs on your browser from simple static webpages to dynamic pages.
 
-HTML being a markup language, meaning it should have some sort of tags or elements marking or matching up to something, right? Yes! HTML has its own elements and tag that are represented in the browser and rendered in different forms according to its uses. Like:
+HTML as a markup language, means it should have some sort of tags or elements marking or matching up to something, right? Yes! HTML has its own elements and tags that are represented in the browser and rendered in different forms according to its uses. Like:
 `<img src="">` that's an image tag, if a src is passed in, it renders an image on the browser but `<p></p>` cannot render an image on the browser. 
 
 Good! Now we understand that markups are elements that are represented in codes as tags and rendered in the browser based on their definition and uses.
 
 ### Why was the file named index.html
-The browser looks up for the index, as the name simply means a search point. Think of it as human looking for a definition or word in a book or dictionary, it's easier to check the index page of the textbook or dictionary for the content you need, right? The browser performs in a similar manner it looks up the index as a searching point to render a webpage.
+The browser looks up for the index, as the name simply means a search point. Think of it as human looking for a definition or word in a book or dictionary, it's easier to check the index page of the textbook or dictionary for the content you need, right? The browser performs in a similar manner. It looks up the index as a searching point to render a webpage.
 
 ### What next?
 
