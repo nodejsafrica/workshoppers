@@ -9,7 +9,7 @@ JavaScript does not follow the regular rule of data type declaration because it'
 - Undefined type
 - Number type: according to ECMAScript standard, it has just a double-precision of 64  bit see [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures);
 
-- String type: JavaScript strings are immutable unlike C or most programming languages, meaning ones a string has been created it cannot be altered or modified.
+- String type: JavaScript strings are immutable unlike C or most programming languages, meaning once a string has been created it cannot be altered or modified.
 - Symbol type: are new to JavaScript in ECMAScript Edition 6. A Symbol is a unique and immutable primitive value and may be used as the key of an Object property.
 
 ## String Functions 
@@ -65,9 +65,9 @@ The above listed functions are the most used number functions. click [here](http
 
 ## Challenge 
 - Do a documentation of the uses of the above listed functions
-*why? this will help you understand the using documentation*
+*why? this will help you understand using documentation*
 
 ## Award
-Egale eyes!..
+Eagle eyes!..
 
 [Previous](https://github.com/NodeJSAfrica/workshoppers/tree/master/5.%20working_with_arrays)
