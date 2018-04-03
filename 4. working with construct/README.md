@@ -79,7 +79,7 @@ Array.forEach(element(index){
 });
 ```
 
-The forEach is best for test out arrays and sorting out the elements in the Array object. It has callback function that returns the elements of the array. 
+The forEach is best for testing out arrays and sorting out the elements in the Array object. It has callback function that returns the elements of the array. 
 
 ### While 
 ```
@@ -90,7 +90,7 @@ while(condition){
 }while(condition);
 ```
 
-While the condition remains true perform a certain command or action... This the most dangerous loop, if the condition never meets false it remains infinite, it either crashes the application when the loops exhaust all the thread in the programme or your laptop if the consume the thread on your RAM.
+While the condition remains true perform a certain command or action... This the most dangerous loop, if the condition never meets false it remains infinite, it either crashes the application when the loops exhaust all the thread in the programme or your laptop if it consumes the thread on your RAM.
 
 *elaborate explanation, when you start working with arrays*
 
@@ -98,7 +98,7 @@ While the condition remains true perform a certain command or action... This the
 
 
 ## Challenge
-The code in the script.js file won't working because they are missing html markups in index.html file.
+The code in the script.js file won't work because they are missing html markups in index.html file.
 - Use your html skills to find the missing tag elements
 - Assign the suppose attribute to the tags 
 - Test code by running the index.html file
