@@ -6,7 +6,7 @@
 - Arithmetic operators
 - Assignment operators
 
-### Logical operators as the name sounds helps us perform logical tasks, like comparing values to either a *true state* or *false state*.
+### Logical operators as the name sound helps us perform logical tasks, like comparing values to either a *true state* or *false state*.
 
 like:
 - same as or equal to operator **==**
@@ -37,11 +37,11 @@ like:
 - subtract and assign **-=**
 - assign and subtract **=-**
 
-Pretty much the name of the operators and they uses are quite the same. So, the fear of forgetting is out of equation.
+Pretty much the name of the operators and the uses are the same. So, the fear of forgetting is out of equation.
 
 ## Challenge 
 - Declare variables
-- Perform an arithmetic operations using the following operators:
+- Perform arithmetic operations using the following operators:
     - Addition
     - Subtraction
     - Multiplication 
