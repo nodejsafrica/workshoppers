@@ -2,7 +2,7 @@
 
 [![Node.js Africa](https://img.shields.io/badge/node.js%20africa-contributor-green.svg)](http://github.com/nodejsafrica/team-nodejs-africa)
 
-JavaScript does not follow the regular rule of data type declaration because it's a losely typed language but JavaScript still obeys the rule of primitve values.
+JavaScript does not follow the regular rule of data type declaration because it's a loosely typed language still, it obeys the rule of primitive values.
 
 - Boolean values: true or false
 - Null type : exactly null
