@@ -2,7 +2,7 @@
 
 # INTRODUCTION TO JAVASCRIPT
 
-Javascript is a front-end or client-side programming language, basically created for DOM manipulation and creating dynamic web-pages. In 2009 Javascript moved from being just a client-side programming language to being a server-side language with the introduction of Node.js. Now, javascript can live out of the browser DOM and can be used in creating desktop, mobile and web applications.
+Javascript is a front-end or client-side programming language, basically created for DOM manipulation and creating dynamic web-pages. In 2009 Javascript moved from being just a client-side programming language to also a server-side language with the introduction of Node.js. Now, javascript can live out of the browser DOM and can be used in creating desktop, mobile and web applications.
 
 # Getting Started!
 
@@ -37,7 +37,7 @@ Like this
 ## Step 2: 
 - Create a file, call it script.js.
 - Open the index.html
-- Give the "src" attribute of the script tag a value which will be name of the file you created.
+- Give the "src" attribute of the script tag a value which will be the name of the file you created.
 - Like this "`<script src="script.js"></script>`".
 
 ## Step 3:
@@ -49,8 +49,9 @@ Like this
 })();
 ```
 
-- Open the index.html file your browser. *please, it's best to use Google Chrome as it supports most Javascript APIs*.
-- Hurray!!!, You just wrote your first javascript code.
+- Open the index.html file on your browser. *please, it's best to use Google Chrome as it supports most Javascript APIs*.
+
+Hurray!!!, You just wrote your first javascript code.
 
 
 [Next](https://github.com/NodeJSAfrica/workshoppers/tree/master/2.%20working%20with%20variables)
