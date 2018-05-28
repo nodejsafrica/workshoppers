@@ -14,7 +14,18 @@ OR
 const myObj = new Object(); // calling Object constructor method
 
 ```
+OR 
+```
+// using function constructor
+function myConstructor(name, age, address) {
+    this.name = name;
+    this.age = age;
+    this.address = address;
+}
 
+const myObj = new myConstructor('John Doe', 24, 'Africa');
+```
+Using 
 ## Adding Properties
 
 ```
