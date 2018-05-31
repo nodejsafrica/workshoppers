@@ -1,7 +1,7 @@
 # Contributors Guide.
 
 If you are reading this you are already a Node.js Africa contributor and you must have agreed to uphold the COC of the entire Node.js GitHub Org. We appreciate the effort you’ve decided to put-in to make our projects better and more comprehensive for learners like you, me and beginners too.
-This guide is prepared to you walk through the contribution process in the best possible way. We’ve already prepared some course outline to help stay in scope for learners, these outlines can be found [here](https://github.com/nodejsafrica/nodejsafrica#ourguide). The document contains all areas we think will be helpful to a beginner to get ready and prepared for NDC (Node.js Developer Certification Exams) and he/her future using Node.js and contributing to Node.js to make it better and more efficient for we all as developers.
+This guide is prepared to you walk through the contribution process in the best possible way. We’ve already prepared some course outline to help stay in scope for learners, these outlines can be found [here](https://github.com/nodejsafrica/nodejsafrica#our-guide). The document contains all areas we think will be helpful to a beginner to get ready and prepared for NDC (Node.js Developer Certification Exams) and he/her future using Node.js and contributing to Node.js to make it better and more efficient for we all as developers.
 
 ## Guide 
 1.	Stay in scope to – Node.js Africa Outline (_we appreciate any form of abstract topics not included in the public document but **must** be related to JavaScript or Node.js_).
