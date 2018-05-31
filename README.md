@@ -21,6 +21,7 @@ Having basic knowledge of HTML/CSS is a plus, as you can jump right into JavaScr
 ## Contributors
 - Agiri Abraham Junior ([@codeekage](https/github.com/codeekage))
 - Theodora Isola ([@theodoraisola](https/github.com/theodoraisola))
+- Shankar Regmi ([@shankarregmi](https/github.com/shankarregmi))
 
 ## Contributing
 You can also be a contributor to this project by: 
