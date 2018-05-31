@@ -13,6 +13,7 @@ Having basic knowledge of HTML/CSS is a plus, as you can jump right into JavaScr
 - [Working with operators](https://github.com/NodeJSAfrica/workshoppers/tree/master/3.working%20with%20operators)
 - [Working with construct](https://github.com/NodeJSAfrica/workshoppers/tree/master/4.%20working%20with%20construct)
 - [Working with arrays](https://github.com/NodeJSAfrica/workshoppers/tree/master/5.%20working_with_arrays)
+- [Working with javascript objects](https://github.com/shankarregmi/workshoppers/tree/master/7.%20working%20with%20javascript%20objects)
 - [Data types and data type functions](https://github.com/NodeJSAfrica/workshoppers/tree/master/6.%20data%20types%20and%20data%20type%20functions)
 
 ## Challenges
@@ -21,6 +22,7 @@ Having basic knowledge of HTML/CSS is a plus, as you can jump right into JavaScr
 ## Contributors
 - Agiri Abraham Junior ([@codeekage](https/github.com/codeekage))
 - Theodora Isola ([@theodoraisola](https/github.com/theodoraisola))
+- Shankar Regmi ([@snkrgmi](https/github.com/shankarregmi))
 
 ## Contributing
 You can also be a contributor to this project by: 
