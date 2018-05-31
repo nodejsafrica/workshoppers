@@ -23,7 +23,7 @@ This guide is prepared to you walk through the contribution process in the best 
 17.	Contribution in other languages, other than English is highly welcomed.
 18.	You **MUST** keep to the COC for contributors in the Node.js GitHub Org. NOTE: _the moderation team is watching_. You will be blocked if you get reported for any form of misconduct.
 19.	Star the project.
-20.	Add your name to the contributors listing in the README.md file in this repo and the members [repo](https://github.com/nodejsafrica/nodejsafrica/members ).
+20.	Add your name to the contributors listing in the README.md file in this repo and the members [repo](https://github.com/nodejsafrica/members).
 
 
 Open an issue if you are confused at any point, we will be happy to help walk you through anything in possible capabilities. 
