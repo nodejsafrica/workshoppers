@@ -38,5 +38,5 @@ class Employee extends Person {
 }
 
 const emp1 = new Employee('John Doe', 'Africa', 'Microsoft');
-emp1.sayMyFullProfile()
+emp1.sayMyFullProfile(); // I am John Doe from Africa working in Microsoft
 ```
