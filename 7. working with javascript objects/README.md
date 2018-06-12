@@ -1,7 +1,8 @@
 # JavaScript Objects
 
 Javascript objects are collection of properties. 
-Properties are just association of key and value
+Properties are just association of key and value.
+In Javascript, objects are considered "first-class citizens" because they can be referenced like other variables, they can be the `return` value for any function, they can also be assigned as the property of another object. Even the ES6 class is just an abstraction and still uses objects underneath. Understanding how objects work is an important step in becoming ***NodeJS*** developer.
 
 ## Creating JavaScript Object
 
@@ -67,7 +68,13 @@ allProperties.forEach((key) => {
     console.log(myObj[key])
 })
 ```
+### `Object.values()` method
+`Object.values(myObj)` returns all the values (i.e properties) of the refrenced object without their respective keys
 
+```javascript
+const allProperties = Object.values(myObj) 
+// returns ['someNumValue', 'someStringValue', 'Object']
+```
 ### `for...in` loop
 
 `for...in` loop traverses along property name , for e.g in above object `someNumber`, `someString`, `anotherNestedObject`.
